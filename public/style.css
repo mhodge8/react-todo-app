@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(45deg, red, blue);
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    width: 40%;
+    min-width: 300px;
+    margin: 15px auto;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    padding: 3%;
+    overflow: hidden;
+}
+
+ul{
+    text-align: left;
+}
+
